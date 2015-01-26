@@ -1,0 +1,1 @@
+- git: {local-name: uml_race, uri: 'https://github.com/uml-robotics/uml_race', version: master}
